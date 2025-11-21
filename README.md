@@ -1,19 +1,37 @@
-I am a recent graduate of the ALX Software Engineering – Frontend Program, and I’m revamping my GitHub profile to reflect my growth, creativity, and curiosity.
+Hi there, I’m Delight Chinecherem.
 
-I chose software engineering because I love creativity and building beautiful, functional websites. It has become my passion to bring ideas to life through code and design.
+Graduate of the ALX Software Engineering – Frontend Program, constantly revamping my GitHub to reflect my growth, skills, and determination as a developer. I enjoy combining creativity with problem-solving to build functional, user-focused digital experiences using both custom code and WordPress.
 
-🎯 My goal in tech is to build scalable digital infrastructure that supports everyday life, especially in developing regions. I want to contribute to open-source tools that empower people, businesses, and communities to thrive.
+What I Do
 
-I’m especially interested in:
--Front-end web development using HTML, CSS, JavaScript, and React
--Infrastructure tools that support clean energy and digital access
--Continuous learning and building solutions that matter.
+   WORDPRESS DEVELOPMENT 
+   
+- Customizing themes (including Blocksy and child themes)
+- Building and styling sites with Elementor
+- Fixing client issues like plugin conflicts, broken layouts, and responsiveness problems
+- Improving performance, structure, and usability
+- Managing installations, hosting setup, and migrations
+- Creating custom post types and dynamic content
 
-I strongly believe that the best way to grow is by practicing and sharing. Here’s what I’m focusing on right now:
-✨ Building responsive front-end projects with React
-✨ Mastering Git/GitHub collaboration workflows
-✨ Understanding the foundations of infrastructure tools and clean energy tech
-✨ Practicing problem-solving with real-world tasks
+FRONTEND DEVELOPMENT 
+
+- HTML, CSS, JavaScript (ES6+), React, Tailwind, TypeScript
+- API Integration
+- Responsive UI development
+- Git/GitHub workflows
+
+  Interests and Goals
+
+I aim to build scalable digital infrastructure that supports everyday life, especially in developing regions. I’m also interested in open-source contributions, clean energy tech, and tools that expand digital access.
+
+What I've Worked On
+
+- Built responsive projects with React
+- Advanced my WordPress development skills
+- Mastered Git/GitHub collaboration
+- Deepened my understanding of infrastructure tools
+- Solved real-world development problems.
+  
 
     LET'S CONNECT
 Linkedin- <a href="https://www.linkedin.com/in/delight-chinecherem/" target="_blank">
@@ -22,5 +40,5 @@ Linkedin- <a href="https://www.linkedin.com/in/delight-chinecherem/" target="_bl
 </a>
  Twitter(X)- <a href="https://twitter.com/dee_webtech" target="_blank">
 </a>
- My Portfolio- <a href="https://my-portfolio-site-iota-henna.vercel.app/" target="_blank">🌐 Portfolio</a>
+ My Portfolio- <a href="https://portfolio-delight.vercel.app/" target="_blank">Portfolio</a>
 
