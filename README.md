@@ -36,8 +36,11 @@ What I've Worked On
     LET'S CONNECT
 Linkedin- <a href="https://www.linkedin.com/in/delight-chinecherem/" target="_blank">LinkedIn
 </a>
- Email- <a href="mailto:dlghtchinecherem@gmail.com" target="_blank">Email
+
+Email- <a href="mailto:dlghtchinecherem@gmail.com" target="_blank">Email
 </a>
- Twitter(X)- <a href="https://twitter.com/dee_webtech" target="_blank">Twitter (X)</a>
- My Portfolio- <a href="https://portfolio-delight.vercel.app/" target="_blank">Portfolio</a>
+
+Twitter(X)- <a href="https://twitter.com/dee_webtech" target="_blank">Twitter (X)</a>
+
+My Portfolio- <a href="https://portfolio-delight.vercel.app/" target="_blank">Portfolio</a>
 
