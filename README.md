@@ -1,39 +1,29 @@
-Hi there, I’m Delight Chinecherem.
+# Hi, I'm Delight Chinecherem
 
-Graduate of the ALX Software Engineering – Frontend Program, constantly revamping my GitHub to reflect my growth, skills, and determination as a developer. I enjoy combining creativity with problem-solving to build functional, user-focused digital experiences using both custom code and WordPress.
+Software engineer based in Lagos. I build backend and AI systems, and I ship user-facing products on top of them. ALX Software Engineering graduate, freelancing as Dee WebTech since 2023.
 
-What I Do:
+## What I build
 
-FRONTEND DEVELOPMENT 
+- **Backend and AI.** Python, Node.js, PostgreSQL, RAG agents, API integrations
+- **Frontend.** React, TypeScript, Next.js, Tailwind
+- **Systems work.** Rust and C++ for projects where performance matters
+- **WordPress and WooCommerce.** Custom themes, plugins and client rescues, where I started
 
-- HTML, CSS, JavaScript (ES6+), React, Tailwind, TypeScript, Next.js
-- API Integration
-- Responsive UI development
-- Git/GitHub workflows
+## Selected work
 
-  Interests and Goals
+- **Recommend.** WhatsApp AI assistant that helps people find vendors. I led the front-end development.
+- **RouteWise.** Route and algorithm project in Python.
+- **LogLens.** Log analysis tool in Rust.
+- **RAG agents.** Retrieval-based assistants built to understand where LLM systems fail.
 
-I aim to build scalable digital infrastructure that supports everyday life, especially in developing regions. I’m also interested in open-source contributions, clean energy tech, and tools that expand digital access.
+## What drives me
 
-   WORDPRESS DEVELOPMENT 
-   
-- Customizing themes (including Blocksy and child themes)
-- Building and styling sites with Elementor
-- Fixing client issues like plugin conflicts, broken layouts, and responsiveness problems
-- Improving performance, structure, and usability
-- Managing installations, hosting setup, and migrations
-- Creating custom post types and dynamic content
+Scalable digital infrastructure that supports everyday life, especially in developing regions. I also care about open source, clean energy tech, and tools that widen digital access.
 
+## Open to
 
+Software engineering roles, backend and AI contracts, and hard problems. Send me the difficult one.
 
-What I've Worked On
-
-- Built responsive projects with React
-- Advanced my WordPress (PHP) development skills
-- Mastered Git/GitHub collaboration
-- Deepened my understanding of infrastructure tools
-- Solved real-world development problems.
-  
 
     LET'S CONNECT
 Linkedin- <a href="https://www.linkedin.com/in/delight-chinecherem/" target="_blank">LinkedIn
